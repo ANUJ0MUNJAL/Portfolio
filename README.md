@@ -2,16 +2,6 @@
 
 Welcome to my portfolio website! This site showcases my projects, skills, and professional experience. You can visit it [here](https://anuj0munjal.github.io/Portfolio/).
 
-## Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## About
 
 This portfolio website is a personal project to display my work and achievements. It includes information about my skills, projects, and professional background. The website is designed to provide a comprehensive view of my capabilities and experiences.
