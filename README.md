@@ -18,7 +18,6 @@ This portfolio website is a personal project to display my work and achievements
 - HTML
 - CSS
 - JavaScript
-- [Frameworks or libraries, if any]
 
 ## Installation
 
